@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **Terraform**
 
 - 💬 Ask me about **DevOps**
 
